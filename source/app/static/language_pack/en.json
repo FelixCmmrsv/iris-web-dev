@@ -1,0 +1,156 @@
+{
+  "blueprints": {
+    "activities": {
+      "activities_html": {
+        "loadingMessage": "Loading...",
+        "userActivitiesTitle": "User activities ( max 10k entries + unbound )",
+        "refreshButton": "Refresh",
+        "nonCaseRelatedLabel": "Show non-case related activity",
+        "showNonCaseActivity": "Show non-case related activity",
+        "dateColumn": "Date",
+        "userColumn": "User",
+        "caseColumn": "Case",
+        "manualInputColumn": "Manual input",
+        "fromApiColumn": "From API",
+        "activityColumn": "Activity"
+      }
+    },
+    "alerts": {
+      "alerts_html": {},
+      "modal_enrichment_html": {},
+      "modal_escalate_html": {},
+      "modal_new_alert_owner_html": {}
+    },
+    "case": {
+      "case_assets_html": {},
+      "case_graph_html": {},
+      "case_graph_timeline_html": {},
+      "case_html": {},
+      "case_ioc_html": {},
+      "case_md_helper_html": {},
+      "case_nav_html": {},
+      "case_nav_landing_html": {},
+      "case_notes_v2_html": {},
+      "case_rfile_html": {},
+      "case_tasks_html": {},
+      "case_timeline_html": {},
+      "modal_add_case_asset_html": {},
+      "modal_add_case_event_html": {},
+      "modal_add_case_ioc_html": {},
+      "modal_add_case_multi_asset_html": {},
+      "modal_add_case_rfile_html": {},
+      "modal_add_case_task_html": {},
+      "modal_add_graph_asset_html": {},
+      "modal_case_pipelines_html": {},
+      "modal_conversation_html": {},
+      "modal_help_filter_tm_html": {},
+      "modal_note_edit_html": {},
+      "select_case_html": {}
+    },
+    "dashboard": {
+      "index_html": {},
+      "modal_add_global_task_html": {}
+    },
+    "datastore": {
+      "modal_ds_file_html": {},
+      "modal_ds_file_info_html": {},
+      "modal_ds_multi_files_html": {},
+      "modal_help_filter_ds_html": {}
+    },
+    "demo_landing": {
+      "demo_landing_html": {}
+    },
+    "dim_tasks": {
+      "dim_tasks_html": {},
+      "modal_task_info_html": {}
+    },
+    "login": {
+      "login_html": {},
+      "mfa_setup_html": {},
+      "mfa_verify_html": {}
+    },
+    "manage": {
+      "access_control": {
+        "manage_access_control_html": {},
+        "manage_user_audit_html": {},
+        "modal_add_group_cac_html": {},
+        "modal_add_group_html": {},
+        "modal_add_group_members_html": {},
+        "modal_add_user_cac_html": {},
+        "modal_add_user_html": {},
+        "modal_cac_to_groups_html": {},
+        "modal_case_audit_html": {},
+        "modal_manage_user_customers_html": {},
+        "modal_manage_user_groups_html": {},
+        "modal_user_audit_html": {}
+      },
+      "manage_attributes_html": {},
+      "manage_cases_html": {},
+      "manage_case_templates_html": {},
+      "manage_customers_html": {},
+      "manage_customer_view_html": {},
+      "manage_make_update_html": {},
+      "manage_modules_html": {},
+      "manage_objects_html": {},
+      "manage_srv_settings_html": {},
+      "manage_templates_html": {},
+      "modal_add_asset_type_html": {},
+      "modal_add_attribute_html": {},
+      "modal_add_case_html": {},
+      "modal_add_customer_html": {},
+      "modal_add_ioc_type_html": {},
+      "modal_add_module_html": {},
+      "modal_add_report_template_html": {},
+      "modal_case_classification_html": {},
+      "modal_case_info_from_case_html": {},
+      "modal_case_state_html": {},
+      "modal_case_template_html": {},
+      "modal_customer_add_contact_html": {},
+      "modal_evidence_types_html": {},
+      "modal_module_info_html": {},
+      "modal_preview_attribute_html": {},
+      "modal_server_updates_html": {},
+      "modal_update_parameter_html": {},
+      "modal_upload_case_template_html": {}
+    },
+    "overview": {
+      "overview_html": {}
+    },
+    "profile": {
+      "modal_pwd_user_html": {},
+      "profile_html": {}
+    },
+    "search": {
+      "search_html": {}
+    }
+  },
+  "templates": {
+    "includes": {
+      "datastore_sidebar_html": {},
+      "footer_case_html": {},
+      "footer_html": {},
+      "header_case_html": {},
+      "navigation_ext_html": {},
+      "navigation_html": {},
+      "quick_sidebar_html": {},
+      "scripts_html": {},
+      "sidebar_handler_html": {},
+      "sidenav_html": {}
+    },
+    "layouts": {
+      "default_centered_html": {},
+      "default_ext_html": {},
+      "default_html": {},
+      "static_default_html": {}
+    },
+    "modals": {
+      "add_customer_html": {},
+      "modal_attributes_nav_html": {},
+      "modal_attributes_tabs_html": {}
+    },
+    "pages": {
+      "error_403_html": {},
+      "error_404_html": {}
+    }
+  }
+}
